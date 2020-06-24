@@ -4,6 +4,9 @@ var apiKey = "&appid=87846ec7c9b24097c9951ca770e54585";
 
 var units = "imperial";
 
+fetch("city.list.json")
+  .then(response => response.json())
+  .then(json => console.log(json));
 
 // when enter is pressed inside the input field, call getWeather()
 document.getElementById("city").onkeypress = function(event) {
