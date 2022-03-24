@@ -4,7 +4,7 @@ A responsive website which tells you the weather in any country, state, or city 
 
 ## Getting Started
 
-Go here: https://ayushchivate.github.io/weather-website/ to view the website.
+Go here: https://ayushchivate.github.io/whats-the-weather/ to view the website.
 
 ## Built With
 
